@@ -1,6 +1,6 @@
-# NCTU/NYCU e3 CAPTCHA Verify (CNN + Selenium)
+# e3-captcha-solver (CNN + Selenium)
 
-This repository contains a full pipeline to solve 4-digit CAPTCHA images used by the e3 login page:
+This repository contains a full pipeline to solve 4-digit CAPTCHA images used by the NCTU/NYCU e3 login page:
 
 1. Collect CAPTCHA images
 2. Clean and split digits
